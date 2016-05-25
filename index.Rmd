@@ -23,6 +23,31 @@ Often times you find that you are stuck with car options that don't necessarily 
 ![Car Rental Figure](http://cdn.moneycrashers.com/wp-content/uploads/2014/07/zipcar-cars.png)
 
 
---- .custom &custom
+--- &custom .custom
+
+With this app you would realize the following;
+- Ease of access to car options
+- Peace of mind in car renting
+- Reduced wait at rental shop
+
+All these great benefits at the click of your mouse at home!
+
+--- .custom
+
+The simple design of this app makes it easy to follow
+- With just two slider buttons 
+- A drop down choice menu 
+
+It's never been this easy!
+![shiny app](https://sandraezidiegwu.shinyapps.io/cars/)
+
+--- .custom
+
+Interested in giving it a try?
+- Visit us on shinyapps.io (https://sandraezidiegwu.shinyapps.io/cars/)
+
+For more questions and to learn more, feel free to contact us via email @ (sandraezidiegwu@gmail.com)
+
+--- .custom
 
 
