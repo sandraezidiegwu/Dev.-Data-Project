@@ -19,8 +19,8 @@ head(car.options)
 --- .custom
 
 Often times you find that you are stuck with car options that don't necessarily fit you need
-```{r includegraphics, width=250}
-{"/Users/sandraezidiegwu/Downloads/cars.png"}
+```{r}
+!("http://cdn.moneycrashers.com/wp-content/uploads/2014/07/zipcar-cars.png")
 ```
 
 --- .custom &custom
