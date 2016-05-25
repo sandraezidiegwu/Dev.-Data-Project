@@ -39,7 +39,11 @@ The simple design of this app makes it easy to follow
 - A drop down choice menu 
 
 It's never been this easy!
-![shiny app](/Users/sandraezidiegwu/Desktop/shinyapp.png)
+```{r fig.width = 7, fig.height = 6}
+library(png)
+img <- readPNG("/Users/sandraezidiegwu/Desktop/shinyapp.png")
+grid.raster(img)
+```
 
 --- .custom
 
