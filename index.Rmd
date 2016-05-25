@@ -1,0 +1,28 @@
+---
+title       : MPG Dataset Transformation
+subtitle    : Rental Car Customer Choice Option
+author      : Sandra Ezidiegwu
+framework   : html5slides        # {io2012, html5slides, shower, dzslides, ...}
+knit        : slidify::knit2slides
+---
+
+## Rental Car Use made Simple
+With the use of this app, one can easily navigate through their preferred rental car choices. 
+```{r}
+library(shiny)
+library(ggplot2)
+library(dplyr)
+car.options <- select(mpg, manufacturer, model, year, cty, hwy, class)
+head(car.options) 
+```
+
+--- .custom
+
+Often times you find that you are stuck with car options that don't necessarily fit you need
+```{r includegraphics, width=250}
+{"/Users/sandraezidiegwu/Downloads/cars.png"}
+```
+
+--- .custom &custom
+
+
