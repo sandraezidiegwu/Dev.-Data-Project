@@ -39,7 +39,7 @@ The simple design of this app makes it easy to follow
 - A drop down choice menu 
 
 It's never been this easy!
-![shiny app](https://sandraezidiegwu.shinyapps.io/cars/)
+![shiny app](/Users/sandraezidiegwu/Desktop/shinyapp.png)
 
 --- .custom
 
